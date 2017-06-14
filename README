@@ -6,6 +6,9 @@ Vim syntax file to highlight various log files.
 This syntax file describes how to highlight:
 * Error messages (containing 'error', 'fail', etc. words)
 * Warning messages (containing 'warning', 'delete', etc. words )
+* Information messages (containing 'info')
+* Debug messages (containing 'debug')
+* Trace messages (containing 'trace')
 * Strings ( Double quotes and single quotes )
 * Date values in various formats
 * Time values in various formats
